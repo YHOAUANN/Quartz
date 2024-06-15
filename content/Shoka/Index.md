@@ -5,14 +5,14 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduction
     - 唯物主义
-    - 卡片盒笔记法
-    - 学习方法
-    - 时间管理方法
-    - 番茄工作法
-    - 知识管理方法
     - 马克思主义
+    - 唯心主义
+    - 资本主义
+    - 历史唯物主义
+    - 无产阶级
+    - 资产阶级
+    - 共产主义社会
   sceneTemplate: templates/chaper.md
   ignoredFiles: []
 ---
