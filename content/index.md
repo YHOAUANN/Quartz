@@ -1,6 +1,16 @@
 ---
-title: Welcome to Quartz
+title: 欢迎
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+你好，这里是伊霍安的数字花园
+
+
+[[Mysql]]
+
+[[学习方法]]
+
+[[时间管理方法]]
+
+[[知识管理方法]]
+
+[RSS](/index.xml)
